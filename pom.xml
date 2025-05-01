@@ -143,8 +143,8 @@
                 <version>${serenity.version}</version>
                 <configuration>
                     <tags>${tags}</tags>
-                    <reports>single-page-html</reports>
-<!--                    <generateFullReport>true</generateFullReport>-->
+<!--                    <reports>single-page-html</reports>-->
+                    <generateFullReport>true</generateFullReport>
                 </configuration>
                 <dependencies>
                     <dependency>
